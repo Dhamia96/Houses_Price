@@ -14,7 +14,7 @@
 ###  Neural Network.
  
 ## Reason:
-### **We decided to choose Neural Network Model to help us classify and cluster our data and improve the accuracy when predicting the test set.**
+### **We decided to choose Neural Network Model to help us estimate houses prices and improve the performance when predicting the test set.**
 ## Group 1:
 ### **TITANS** 
 ## Group Members:
